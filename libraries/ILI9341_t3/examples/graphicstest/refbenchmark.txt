@@ -1,0 +1,89 @@
+Benchmark                Time (microseconds)
+Screen fill              1787072
+Text                     717824
+Lines                    7666648
+Horiz/Vert Lines         215112
+Rectangles (outline)     161128
+Rectangles (filled)      4678296
+Circles (filled)         2156708
+Circles (outline)        3349336
+Triangles (outline)      2431724
+Triangles (filled)       2575464
+Rounded rects (outline)  1091824
+Rounded rects (filled)   5560564
+Done!
+
+
+Benchmark                Time (microseconds)
+Screen fill              1787068
+Text                     384248
+Lines                    2815636
+Horiz/Vert Lines         319248
+Rectangles (outline)     207732
+Rectangles (filled)      4678292
+Circles (filled)         1359604
+Circles (outline)        1167088
+Triangles (outline)      893992
+Triangles (filled)       2961288
+Rounded rects (outline)  511980
+Rounded rects (filled)   6300224
+
+Benchmark                Time (microseconds)
+Screen fill              4843144
+Text                     339564
+Lines                    2810676
+Horiz/Vert Lines         319256
+Rectangles (outline)     207736
+Rectangles (filled)      11506548
+Circles (filled)         1359604
+Circles (outline)        1164920
+Triangles (outline)      892412
+Triangles (filled)       2961260
+Rounded rects (outline)  511364
+Rounded rects (filled)   11451296
+
+Benchmark                Time (microseconds)
+Screen fill              4870992
+Text                     343280
+Lines                    2810676
+Horiz/Vert Lines         319256
+Rectangles (outline)     207736
+Rectangles (filled)      11538712
+Circles (filled)         1359600
+Circles (outline)        1164920
+Triangles (outline)      892416
+Triangles (filled)       2961244
+Rounded rects (outline)  511356
+Rounded rects (filled)   11471192
+Done!
+
+Benchmark                Time (microseconds)
+Screen fill              4870992
+Text                     343280
+Lines                    2810676
+Horiz/Vert Lines         319256
+Rectangles (outline)     207736
+Rectangles (filled)      11538712
+Circles (filled)         1359600
+Circles (outline)        1164920
+Triangles (outline)      892416
+Triangles (filled)       2961244
+Rounded rects (outline)  511356
+Rounded rects (filled)   11471192
+Done!
+
+
+Benchmark                Time (microseconds)
+Screen fill              2047120
+Text                     361556
+Lines                    2815640
+Horiz/Vert Lines         319256
+Rectangles (outline)     207736
+Rectangles (filled)      5576932
+Circles (filled)         1359608
+Circles (outline)        1167092
+Triangles (outline)      893988
+Triangles (filled)       2961256
+Rounded rects (outline)  511980
+Rounded rects (filled)   6977448
+Done!
